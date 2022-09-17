@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi  👋
 
-<!--
-**sapirhender123/sapirhender123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🖥️ I’m currently working at Elbit Systems as a Software Developer C++
+- 🧑‍🎓 I’m currently learning Bachelor's degree in computer science at Bar Ilan University (I have 3 courses left to complete my degree).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**In my page, you can find repositories on the following topics:**
+- 🎮 My final project - VR Language Game (C# in unity)
+- 🦠 Corona Virus Simulation (Python)
+- 👩‍🎓👨‍🎓 Learning Game (Java) include design patterns: Observer, Singleton, Proxy, Adapter and Command.
+- 🧐 Anomaly detection web app (Javascript)
+- 💥 Joystick Simulation (Kotlin using Android Studio)
+- 💫 Simple Word Server that handle with Twitter API (Javascript, also using Docker and Heroku)
+- 🥔 Optimization Project - (Python) Simulation of Potato coast for Lotringer packing house
+- ✈️ Flight Inspection App (.NET C# Application using WPF)
+- 🔎 Anomaly Detection Server (C++)
+- And more...
+
+Languages Proficient in: C++, C, Java, Python, C#, Go, JavaScript
+
+And I'm additionally skilled in:
+
+📌Linux  📌 Cyber Security 📌 Computer Networks 📌 Docker 📌 Jenkins 
+
+
+
