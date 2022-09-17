@@ -14,13 +14,16 @@
 - 🥔 Optimization Project - (Python) Simulation of Potato coast for Lotringer packing house
 - ✈️ Flight Inspection App (.NET C# Application using WPF)
 - 🔎 Anomaly Detection Server (C++)
+- 📝 Linux Shell Implementation (C)
+- 📰 Files Comparison
+- 🔶 ThreadPool (C)
 - And more...
 
 Languages Proficient in: C++, C, Java, Python, C#, Go, JavaScript
 
 And I'm additionally skilled in:
 
-📌Linux  📌 Cyber Security 📌 Computer Networks 📌 Docker 📌 Jenkins 
+📌Linux  📌 Cyber Security 📌 Computer Networks 📌 Docker 📌 Jenkins 📌 Bash
 
 
 
