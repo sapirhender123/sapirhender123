@@ -1,7 +1,7 @@
 ### Hi  👋
 
 
-- 🖥️ I’m currently working at Elbit Systems as a Software Developer C++
+- 🖥️ I’m currently working at Varonis as a Software Developer
 - 🧑‍🎓 I’m currently learning Bachelor's degree in computer science at Bar Ilan University (I have 3 courses left to complete my degree).
 
 **In my page, you can find repositories on the following topics:**
