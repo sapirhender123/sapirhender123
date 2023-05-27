@@ -2,7 +2,7 @@
 
 
 - 🖥️ I’m currently working at Varonis as a Software Developer
-- 🧑‍🎓 I’m currently learning Bachelor's degree in computer science at Bar Ilan University (I have 3 courses left to complete my degree).
+- 🧑‍🎓 I have a Bachelor's degree in computer science (studied at Bar Ilan University).
 
 **In my page, you can find repositories on the following topics:**
 - 🎮 [My final project - VR Language Game](https://github.com/sapirhender123/Language-Learning-VR) (C# in unity)
