@@ -2,6 +2,7 @@
 
 
 - 🖥️ I’m currently working at Varonis as a Software Developer
+-  I’m currently MBA student in Tel Aviv University
 - 🧑‍🎓 I have a Bachelor's degree in computer science (studied at Bar Ilan University).
 
 **In my page, you can find repositories on the following topics:**
