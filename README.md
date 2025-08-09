@@ -2,8 +2,9 @@
 
 
 - 🖥️ I’m currently working at Varonis as a Software Developer
--  I’m currently MBA student in Tel Aviv University
 - 🧑‍🎓 I have a Bachelor's degree in computer science (studied at Bar Ilan University).
+- 🧑‍🎓I have MBA degree (studied at in Tel Aviv University).
+
 
 **In my page, you can find repositories on the following topics:**
 - 🎮 [My final project - VR Language Game](https://github.com/sapirhender123/Language-Learning-VR) (C# in unity)
